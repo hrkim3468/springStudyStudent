@@ -13,7 +13,6 @@ local.properties
 .settings/
 .loadpath
 .factorypath
-.classpath
 logs/
 work/Tomcat/
 
